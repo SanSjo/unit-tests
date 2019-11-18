@@ -1,3 +1,3 @@
-export const hackerSpeak = (words) => {
-  return words
-}
+export const hackerSpeak = words => {
+  return words;
+};
